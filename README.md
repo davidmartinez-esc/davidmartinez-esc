@@ -8,7 +8,7 @@ Emoji list: https://gist.github.com/rxaviers/7360908
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Mart%C3%ADnez-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/david-martinez-esc)
 [![Mail](https://img.shields.io/badge/Gmail-davidenrique.escares@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:davidenrique.escares@gmail.com)
 
-<h2 align='center'><samp><strong>Hi there 👋, I'm David Martínez Escares</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I'm David Martínez</strong></samp></h2>
 <p align='center'>Computer Science & Informatics Engineer | Python | Data & AI | Backend and Full Stack</p>
 
 <p align='left'> 📫 Computer Science and Informatics Engineer (Ingeniero en Ejecución en Computación e Informática) from the University of Santiago de Chile (USACH), with over 2 years of experience building software and data analysis solutions in academic projects and for a real client. I enjoy building systems that automate processes and solve complex problems, from optimization engines and real-time dashboards to REST APIs and container-based deployments.</p>
